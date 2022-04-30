@@ -1,18 +1,6 @@
-### Hey! ✌️ 
-
-Here's some stuff about me:
-- Backend web development enthusiast 💻
-- Currently learning: Machine learning with Python 🤖
-- 21 Years old 🧍‍♂️
-- Software Engineering student at FIME (UANL) 🏫
-- Expected graduation date 07/2022 🎓
-- Mexico resident 🇲🇽
-- Spanish (Native) | English (%80) 🗣️
-- I like playing videogames on my Nintendo Switch in my free time 🎮
-
-
 <h1 align="center">Hey! ✌️</h1>
-<h3 align="center">Here's some stuff about me:</h3>
+<h2 align="center">Connect with me!</h2>
+<h3 align="left">Here's some stuff about me:</h3>
 <p>
 - Backend web development enthusiast 💻
 - Currently learning: Machine learning with Python 🤖
@@ -22,7 +10,7 @@ Here's some stuff about me:
 - Mexico resident 🇲🇽
 - Spanish (Native) | English (%80) 🗣️
 - I like playing videogames on my Nintendo Switch in my free time 🎮
-  </p>
+ </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
