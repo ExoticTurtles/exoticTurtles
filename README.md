@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hey! ✌️ 
 
+Here's some stuff about me:
+- Backend web development enthusiast 💻
+- Currently learning: Machine learning with Python 🤖
+- 21 Years old 🧍‍♂️
+- Software Engineering student at FIME (UANL) 🏫
+- Expected graduation date 07/2022 🎓
+- Mexico resident 🇲🇽
+- Spanish (Native) | English (%80) 🗣️
+- I like playing videogames on my Nintendo Switch in my free time 🎮
 <!--
 **ExoticTurtles/exoticTurtles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
