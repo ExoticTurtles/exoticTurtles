@@ -1,19 +1,20 @@
 <h1 align="center">Hey! ✌️</h1>
 <h3 align="left">Here's some stuff about me:</h3>
+
 <ul>
- <li>- Backend web development enthusiast 💻</li>
-<li>- Currently learning: Machine learning with Python 🤖</li>
-<li>- 21 Years old 🧍‍♂️</li>
-<li>- Software Engineering student at FIME (UANL) 🏫</li>
-<li>- Expected graduation date 07/2022 🎓</li>
-<li>- Mexico resident 🇲🇽</li>
-<li>- Spanish (Native) | English (%80) 🗣️</li>
-<li>- I like playing videogames on my Nintendo Switch in my free time 🎮</li>
- </ul>
+<li> Backend web development enthusiast 💻</li>
+<li> Currently learning: Machine learning with Python 🤖</li>
+<li> 21 Years old 🧍‍♂️</li>
+<li> Software Engineering student at FIME (UANL) 🏫</li>
+<li> Expected graduation date 07/2022 🎓</li>
+<li> Mexico resident 🇲🇽</li>
+<li> Spanish (Native) | English (%80) 🗣️</li>
+<li> I like playing videogames on my Nintendo Switch in my free time 🎮</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/luis daniel garcia leal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis daniel garcia leal" height="30" width="40" /></a>
+<a href="https://www.facebook.com/luisdaniel.garcia.564813/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis daniel garcia leal" height="30" width="40" /></a>
 <a href="https://instagram.com/lu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lu" height="30" width="40" /></a>
 </p>
 
