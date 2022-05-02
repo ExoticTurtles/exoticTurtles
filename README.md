@@ -6,7 +6,7 @@
 <li> Currently learning: Machine learning with Python 🤖</li>
 <li> 21 Years old 🧍‍♂️</li>
 <li> Software Engineering student at FIME (UANL) 🏫</li>
-<li> Expected graduation date 07/2022 🎓</li>
+<li> Expected graduation date 07/2023 🎓</li>
 <li> Mexico resident 🇲🇽</li>
 <li> Spanish (Native) | English (%80) 🗣️</li>
 <li> I like playing videogames on my Nintendo Switch in my free time 🎮</li>
