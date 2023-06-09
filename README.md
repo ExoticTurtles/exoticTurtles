@@ -1,4 +1,4 @@
-<a href="https://exoticturtles.github.io/luis-website.github.io/"><h3>Resume website</h3></a>
+<h3><a href="https://exoticturtles.github.io/luis-website.github.io/">Resume website</h3></a>
 
 <h3>Personal information:</h3>
 <ul>
