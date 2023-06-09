@@ -1,3 +1,5 @@
+<a href="https://exoticturtles.github.io/luis-website.github.io/"><h3>Resume website</h3></a>
+
 <h3>Personal information:</h3>
 <ul>
 <li>22 Years old ♂️</li>
@@ -25,4 +27,4 @@
 <li><a href="https://github.com/ExoticTurtles/YelpCamp" target="blank">Basic campsite review web application using NodeJS, EJS, MongoDB, etc. </a></li>
 </ul>
 
-<h3 align="left">Status: Open to work</h3>
+<h3>Status: Open to work</h3>
