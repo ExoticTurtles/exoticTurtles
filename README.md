@@ -3,7 +3,7 @@
 <h3>Personal information:</h3>
 <ul>
 <li>22 Years old ♂️</li>
-<li>Software Engineering student</li>
+<li>Software Engineering graduate</li>
 <li>Expected graduation date 07/2023 🎓</li>
 <li>Mexico resident 🇲🇽</li>
 <li>Languajes:</li>
